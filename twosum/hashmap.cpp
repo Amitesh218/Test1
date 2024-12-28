@@ -13,6 +13,6 @@ public:
             else
             themap[nums[i]]=i; //redundant? js a random placeholder action i think
         }
-        
+    return {0};    
     }
 };
