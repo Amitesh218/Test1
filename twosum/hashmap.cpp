@@ -11,7 +11,7 @@ public:
                 return result;
             }
             else
-            themap[nums[i]]=i; //redundant? js a random placeholder action i think
+            themap[nums[i]]=i; //redundant? js a random placeholder action i think also i thnk im gonna be inconsistent with this entire thing ngl.
         }
     return {0};    
     }
